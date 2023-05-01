@@ -35,5 +35,6 @@ Assignments should be completed individually, however, discussion is encouraged.
 - exercise 2
 
 - exercise 3
+- exercise: Python Basics [Numbers](https://colab.research.google.com/drive/14dw74jqPjUoF-C9QS8vVAlxBdiGcz9vI) [Strings](https://colab.research.google.com/drive/14dw74jqPjUoF-C9QS8vVAlxBdiGcz9vI) [Lists](https://colab.research.google.com/drive/14dw74jqPjUoF-C9QS8vVAlxBdiGcz9vI)
 
 ### Day 2
