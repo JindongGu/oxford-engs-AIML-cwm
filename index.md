@@ -38,3 +38,11 @@ Assignments should be completed individually, however, discussion is encouraged.
 - exercise: Python Basics [[Numbers]](https://colab.research.google.com/drive/14dw74jqPjUoF-C9QS8vVAlxBdiGcz9vI) [[Strings]](https://colab.research.google.com/drive/14dw74jqPjUoF-C9QS8vVAlxBdiGcz9vI) [[Lists]](https://colab.research.google.com/drive/14dw74jqPjUoF-C9QS8vVAlxBdiGcz9vI)  [[Dictionaries]](https://colab.research.google.com/drive/14dw74jqPjUoF-C9QS8vVAlxBdiGcz9vI)  [[Tuples]](https://colab.research.google.com/drive/14dw74jqPjUoF-C9QS8vVAlxBdiGcz9vI)  [[Conditionals]](https://colab.research.google.com/drive/14dw74jqPjUoF-C9QS8vVAlxBdiGcz9vI)  [[Numpy]](https://colab.research.google.com/drive/14dw74jqPjUoF-C9QS8vVAlxBdiGcz9vI)  [[OOP]](https://colab.research.google.com/drive/14dw74jqPjUoF-C9QS8vVAlxBdiGcz9vI)
 
 ### Day 2
+
+### Day 3
+- exercise: [[Neural Network Exercise 1]](https://colab.research.google.com/drive/14dw74jqPjUoF-C9QS8vVAlxBdiGcz9vI) [[Neural Network Exercise 2]](https://colab.research.google.com/drive/14dw74jqPjUoF-C9QS8vVAlxBdiGcz9vI) [[Neural Network in Numpy]](https://colab.research.google.com/drive/14dw74jqPjUoF-C9QS8vVAlxBdiGcz9vI)
+
+### Day 4
+- exercise: [[PyTorch Tutorial]](https://colab.research.google.com/drive/14dw74jqPjUoF-C9QS8vVAlxBdiGcz9vI) [[Neural Network in PyTorch]](https://colab.research.google.com/drive/14dw74jqPjUoF-C9QS8vVAlxBdiGcz9vI) [[CNN in Pytorch]](https://colab.research.google.com/drive/14dw74jqPjUoF-C9QS8vVAlxBdiGcz9vI)
+- 
+### Day 5
