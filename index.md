@@ -40,6 +40,8 @@ Assignments should be completed individually, however, discussion is encouraged.
 ### Day 2
 
 ### Day 3
+- slides: [[Neural Network Slides]](https://drive.google.com/file/d/1d7RFeJ9n5VrTMrdBliApZEXIrkX52vq2/view)
+
 - exercise: [[Neural Network Exercise 1]](https://colab.research.google.com/drive/1vpFJZp400wOtp0dCswn8n1uVJfM3yJdS?usp=sharing) [[Neural Network Exercise 2]](https://colab.research.google.com/drive/1OIoyrzV0j67QIyaMMBNUgWDQdC-zMc8l?usp=sharing) [[Neural Network in Numpy]](https://colab.research.google.com/drive/1R5gxgo-A6YJhgXxGQf5eLriPG2N8sTcO?usp=sharing)
 
 ### Day 4
