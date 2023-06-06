@@ -42,9 +42,9 @@ Assignments should be completed individually, however, discussion is encouraged.
 ### Day 3
 - slides: [[Neural Network Slides]](https://drive.google.com/file/d/1d7RFeJ9n5VrTMrdBliApZEXIrkX52vq2/view)
 
-- exercise: [[Neural Network Exercise 1]](https://colab.research.google.com/drive/1vpFJZp400wOtp0dCswn8n1uVJfM3yJdS?usp=sharing) [[Neural Network Exercise 2]](https://colab.research.google.com/drive/1OIoyrzV0j67QIyaMMBNUgWDQdC-zMc8l?usp=sharing) [[Neural Network in Numpy]](https://colab.research.google.com/drive/1R5gxgo-A6YJhgXxGQf5eLriPG2N8sTcO?usp=sharing)
+- exercise: <!--[[Neural Network Exercise 1]](https://colab.research.google.com/drive/1vpFJZp400wOtp0dCswn8n1uVJfM3yJdS?usp=sharing) [[Neural Network Exercise 2]](https://colab.research.google.com/drive/1OIoyrzV0j67QIyaMMBNUgWDQdC-zMc8l?usp=sharing) [[Neural Network in Numpy]](https://colab.research.google.com/drive/1R5gxgo-A6YJhgXxGQf5eLriPG2N8sTcO?usp=sharing)-->
 
 ### Day 4
-- exercise: [[PyTorch Tutorial]](https://colab.research.google.com/drive/1NcUdNrq0Gt3hgCssEsykgmtj8wkmGErT?usp=sharing) [[Neural Network in PyTorch]](https://colab.research.google.com/drive/1NcUdNrq0Gt3hgCssEsykgmtj8wkmGErT?usp=sharing) [[CNN in Pytorch]](https://colab.research.google.com/drive/1-rnoqtwMkOSzieo-O3vfYpRI-AG7eAf2?usp=sharing)
+- exercise: <!--[[PyTorch Tutorial]](https://colab.research.google.com/drive/1NcUdNrq0Gt3hgCssEsykgmtj8wkmGErT?usp=sharing) [[Neural Network in PyTorch]](https://colab.research.google.com/drive/1NcUdNrq0Gt3hgCssEsykgmtj8wkmGErT?usp=sharing) [[CNN in Pytorch]](https://colab.research.google.com/drive/1-rnoqtwMkOSzieo-O3vfYpRI-AG7eAf2?usp=sharing)-->
 - 
 ### Day 5
